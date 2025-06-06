@@ -97,3 +97,9 @@ Aplicar transformações com Power Query
 Criar medidas com DAX e os visuais conforme necessidade
 Personalizar layout e interações do dashboard
 
+##✅ Resultado Esperado
+Um painel dinâmico que permite:
+Acompanhamento da evolução histórica dos preços
+Comparação entre diferentes criptomoedas
+Identificação das moedas com maior ou menor valor
+Visualização clara e interativa dos dados de mercado
